@@ -61,6 +61,9 @@
     top : -40px;
     right:0;
     transform:translateX(50%);
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
 }
 
 .skill-per::after{
@@ -71,7 +74,7 @@
     background: white;
     top : -20px;
     right:0;
-    transform: translateX(30%) rotate(45deg);
+    transform: translateX(50%) rotate(45deg);
     border-radius: 5px;
 }
 @keyframes fillBars{
